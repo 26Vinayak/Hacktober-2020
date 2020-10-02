@@ -64,7 +64,7 @@ function Payment() {
                     created: paymentIntent.created
                 })
             }
-            
+
 
             setSucceeded(true);
             setError(null);
@@ -103,8 +103,8 @@ function Payment() {
                     </div>
                     <div className='payment__address'>
                         <p>{user?.email}</p>
-                        <p>123 React Lane</p>
-                        <p>Los Angeles, CA</p>
+                        <p>123 Haridwar</p>
+                        <p>Uttrakhand, India</p>
                     </div>
                 </div>
 
